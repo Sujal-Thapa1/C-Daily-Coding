@@ -1,3 +1,10 @@
+/**
+ * The function star_Pyramid takes an integer input and prints a pyramid pattern of stars with the
+ * specified number of rows.
+ * 
+ * @param n The parameter `n` in the `star_Pyramid` function represents the number of rows in the
+ * pyramid. It is the input provided by the user to determine the height of the pyramid.
+ */
 #include<stdio.h>
 int star_Pyramid(int n){
     int i, j;
