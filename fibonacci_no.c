@@ -1,3 +1,8 @@
+/**
+ * The program generates a Fibonacci sequence up to a specified number entered by the user.
+ * 
+ * @return The program is returning an integer value of 0.
+ */
 #include<stdio.h>
 int main()
 {
